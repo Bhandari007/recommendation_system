@@ -1,6 +1,6 @@
 # Recommendation_system
 This repository contains implementation of different algorithms like KMeans, PCA etc for building recommendation system.<br>
-It was completed as part of <a href = "https://www.coursera.org/learn/machine-learning-capstone?"> IBM Machine Learning Capstone Project.</a>
+
 
 # Major Highlights
 
@@ -27,3 +27,7 @@ It was completed as part of <a href = "https://www.coursera.org/learn/machine-le
 ## <a href = "https://github.com/Bhandari007/recommendation_system/blob/main/regression_based_rating_score.ipynb">Embedding Feature to predict Rating (Regression)</a>
 
 * Regression model to predict rating using embedding features of both user and items.
+
+
+### References:
+<a href = "https://www.coursera.org/learn/machine-learning-capstone?"> IBM Machine Learning Capstone Project
