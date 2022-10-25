@@ -11,8 +11,8 @@ This repository contains implementation of different algorithms like KMeans, PCA
 
 ## <a href = "https://github.com/Bhandari007/recommendation_system/blob/main/clutsering_based_recommendation_system.ipynb"> Clustering based Recommendation System </a>
 
-* Implementation of PCA (Principle Component Analysis)
-* Implementation of K-Means Clustering
+* Implementation of `PCA (Principle Component Analysis)`
+* Implementation of `K-Means Clustering`
 
 ## <a href = "https://github.com/Bhandari007/recommendation_system/blob/main/content_based_recommendation_system.ipynb"> Content-based Recommender System </a>
 
@@ -26,7 +26,7 @@ This repository contains implementation of different algorithms like KMeans, PCA
 
 ## <a href = "https://github.com/Bhandari007/recommendation_system/blob/main/regression_based_rating_score.ipynb">Embedding Feature to predict Rating (Regression)</a>
 
-* Regression model to predict rating using embedding features of both user and items.
+* Regression model to predict rating using `embedding features` of both user and items.
 
 
 ### References:
